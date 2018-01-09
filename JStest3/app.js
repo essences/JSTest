@@ -5,7 +5,7 @@ window.addEventListener("load", function() {
 
   for(i=0;i < 10 ; i++)
   {
-  str = prompt(str + i + "わーい１１１１ <br>");
+  str = prompt(str + i + "わーい１１１１2222 <br>");
   }
 
   confirm(str);
